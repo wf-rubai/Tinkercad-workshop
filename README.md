@@ -7,5 +7,5 @@
 ## All The Necessary Codes
 ### 1st circuit code
 ```bash
-hello tasbeer vaiya
+hello good participants
 ```
